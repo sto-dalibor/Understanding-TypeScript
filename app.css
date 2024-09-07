@@ -124,5 +124,7 @@
     padding: 1rem;
     border: 1px solid #ff0062;
     background: #f7f7f7;
+    max-width: 400px;
+    width: 100%;
   }
   
